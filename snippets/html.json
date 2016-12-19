@@ -50,5 +50,15 @@
       "</div>"
     ],
     "description": "Angular 2 ngSwitch snippet"
+  },
+  "ngToto": {
+    "prefix": "ng2-ngToto",
+    "body": [
+      "<div [ngToto]=\"${conditionExpression}\">",
+      "\t<div *ngTotoCase=\"${expression}\">${output}</div>",
+      "\t<div *ngTotoDefault>${output2}</div>",
+      "</div>"
+    ],
+    "description": "Angular 2 ngToto snippet"
   }
 }
