@@ -26,7 +26,7 @@
             }
           ],
           "request": {
-            "url": "https://postman-echo.com/get",
+            "url": "https://postman-echo.com/v1.0/get",
             "method": "GET",
             "header": [],
             "body": {},
@@ -50,7 +50,7 @@
             }
           ],
           "request": {
-            "url": "https://postman-echo.com/get",
+            "url": "https://postman-echo.com/v1.0/get",
             "method": "GET",
             "header": [],
             "body": {},
@@ -73,7 +73,7 @@
             }
           ],
           "request": {
-            "url": "https://postman-echo.com/get",
+            "url": "https://postman-echo.com/v1.0/get",
             "method": "GET",
             "header": [],
             "body": {},
@@ -116,7 +116,7 @@
                 }
               ],
               "request": {
-                "url": "https://postman-echo.com/get",
+                "url": "https://postman-echo.com/v1.0/get",
                 "method": "GET",
                 "header": [],
                 "body": {},
@@ -146,7 +146,7 @@
             }
           ],
           "request": {
-            "url": "https://postman-echo.com/get",
+            "url": "https://postman-echo.com/v1.0/get",
             "method": "GET",
             "header": [],
             "body": {},
@@ -181,7 +181,7 @@
         }
       ],
       "request": {
-        "url": "https://postman-echo.com/get",
+        "url": "https://postman-echo.com/v1.0/get",
         "method": "GET",
         "header": [],
         "body": {},
